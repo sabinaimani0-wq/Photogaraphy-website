@@ -1,8 +1,16 @@
-body{
+body {
+  color: #fca47c;
+  background-color: #097c87;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    background-color: #23ced9;
     color: #fca47c;
-    background-color:#097C87;
-margin: 0;
-padding: 0;
-line-height: 1;
+    margin-top: -30px;
+    display: flex;
+    text-align: justify end;
 
 }
