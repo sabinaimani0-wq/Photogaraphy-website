@@ -28,24 +28,7 @@ header{
   width: 100%;
 margin-top: 10px;
 }
-nav{
-  background-color: black;
-  text-align: center;
-  padding: 14px 0;
-}
-nav a{
-  text-decoration: none;
-  color: blanchedalmond;
-  margin: 2 20px;
-  font-weight: 700;
-  font-size: 20px;
-  letter-spacing: 0.6px;
-}
-nav a:hover{
-  color: cornflowerblue;
-  text-decoration: #23ced9;
-word-spacing: 10px;
-}
+
 section{
   background-color: rgb(26, 24, 24);
   border-radius: 7px;
