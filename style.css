@@ -9,16 +9,19 @@ body {
 header{
     background-color: #23ced9;
     color: #fca47c;
-    margin-top: -20px;
-    display: flex;
+    padding: 15px;
 }
-.logo{
-  font-size: 34px;
-  font-weight: bold;
-  font-family: 'Times New Roman';
+.logo h1{
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin: 0;
+  font-family: Georgia,serif;
 }
 .logodescription:{
-position: absolute;
-left: 60%;
-transform: translateX(-40%);
+  text-align: center;
+  font-weight: bold;
+  width: 100%;
+margin-top: 10px;
 }
