@@ -11,11 +11,14 @@ header{
     color: #fca47c;
     margin-top: -20px;
     display: flex;
-align-items: center;
 }
 .logo{
   font-size: 34px;
   font-weight: bold;
   font-family: 'Times New Roman';
 }
-
+.logodescription:{
+position: absolute;
+left: 60%;
+transform: translateX(-40%);
+}
