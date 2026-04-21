@@ -12,6 +12,7 @@ header{
     padding: 15px 0;
     text-align: center;
     text-decoration: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 .logo h1{
   font-size: 40px;
@@ -31,7 +32,6 @@ nav{
   background-color: black;
   text-align: center;
   padding: 14px 0;
-  text-autospace: var(15px);
 }
 nav a{
   text-decoration: none;
@@ -60,11 +60,13 @@ section:hover{
 }
 #f1{
   column-count: 2;
-  max-width: 400px;
+  column-gap: 100px;
+  column-width: 40px;
+  max-width: 120px;
   margin: auto;
 }
 #f1 img{
-  width: 100%;
+  width: 200%;
 
 }
 
