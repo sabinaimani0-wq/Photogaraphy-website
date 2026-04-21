@@ -85,4 +85,8 @@ form button{
 form button:hover{
     background-color: #0056b3;
 }
-.p
+.p{
+  color: #87320b;
+  font-weight: 300;
+  text-align: justify;
+}
