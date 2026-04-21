@@ -27,6 +27,12 @@ header{
   width: 100%;
 margin-top: 10px;
 }
+nav{
+  background-color: black;
+  text-align: center;
+  padding: 14px 0;
+  text-autospace: var(15px);
+}
 nav a{
   text-decoration: none;
   color: blanchedalmond;
@@ -52,3 +58,13 @@ transition: box-shadow 0.3s ease;
 section:hover{
   box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.15);
 }
+#f1{
+  column-count: 2;
+  max-width: 400px;
+  margin: auto;
+}
+#f1 img{
+  width: 100%;
+
+}
+
