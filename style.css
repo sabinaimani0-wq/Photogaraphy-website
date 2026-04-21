@@ -9,8 +9,13 @@ body {
 header{
     background-color: #23ced9;
     color: #fca47c;
-    margin-top: -30px;
+    margin-top: -20px;
     display: flex;
-text-align: justify;
-
+align-items: center;
 }
+.logo{
+  font-size: 34px;
+  font-weight: bold;
+  font-family: 'Times New Roman';
+}
+
