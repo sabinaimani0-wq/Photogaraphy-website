@@ -1,3 +1,36 @@
-Photography Website
-This project was done by Imani Sabina 
-This website is a project about all my favorite pictures which are mostly based on nature and my love for it 
+# Over the Moon Photography Website
+
+## Project Name
+"Over The Moon  Photography"
+
+## Author
+Imani Sabina
+
+## Project Description
+Over the Moon Photography is a portfoilo website designed to showcase creative photography work mainly base on nature.The site highlights different photography styles it includes pictures based on landscape,plants and animals.It is built to give an appealing experience while exploring images and learning more about the environment.
+
+## Project Setup Instuctions
+To run this project locally:
+1. Clone the repository:
+" git clone
+2. Open the project folder in VS Code.
+3. Open the index.html file in your browser.
+No additional installations are needed
+
+## Live Site
+View the live website here:
+
+
+## Features
+*Logo design
+*Biography of the creator
+*Gallary section for the nature photographs
+*Easy navigation
+
+## Technologies Used
+*HTML
+*CSS
+
+## Copyright and Licence
+© 2026 Imani Sabina.All rights reserved.
+This project is for educational purpose only.You may not copy or reuse the images without permission.
