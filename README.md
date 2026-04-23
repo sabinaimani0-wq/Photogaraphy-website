@@ -1,3 +1,5 @@
+# Project Design
+![Screenshot](./Photo%20of%20the%20photography%20website.jpg)
 # Over the Moon Photography Website
 
 ## Project Name
@@ -19,9 +21,6 @@ No additional installations are needed
 
 ## Live Site
 View the live website here:
-
-## Project design
-
 
 ## Features
 *Logo design
