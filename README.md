@@ -1,5 +1,3 @@
-# Project Design
-![Screenshot](./Photo%20of%20the%20photography%20website.jpg)
 # Over the Moon Photography Website
 
 ## Project Name
@@ -14,7 +12,6 @@ Over the Moon Photography is a portfoilo website designed to showcase creative p
 ## Project Setup Instuctions
 To run this project locally:
 1. Clone the repository:
-" git clone
 2. Open the project folder in VS Code.
 3. Open the index.html file in your browser.
 No additional installations are needed
