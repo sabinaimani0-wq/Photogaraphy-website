@@ -1,3 +1,4 @@
+<img width="1036" height="1408" alt="Photo of the photography website" src="https://github.com/user-attachments/assets/a7682c85-3931-456f-8971-0b73596e3fb0" />
 # Over the Moon Photography Website
 
 ## Project Name
