@@ -20,6 +20,8 @@ No additional installations are needed
 ## Live Site
 View the live website here:
 
+## Project design
+
 
 ## Features
 *Logo design
@@ -32,5 +34,7 @@ View the live website here:
 *CSS
 
 ## Copyright and Licence
-© 2026 Imani Sabina.All rights reserved.
-This project is for educational purpose only.You may not copy or reuse the images without permission.
+© 2026 Imani Sabina.
+All rights reserved.
+This project is for educational purpose only.
+You may not copy or reuse the images without permission.

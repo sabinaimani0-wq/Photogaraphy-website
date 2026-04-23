@@ -9,17 +9,12 @@
   <body>
     <!-- logo -->
     <section class="logo">
-      <img class="scorpion" src="./LOGO.JPG" alt="logo">
-        <h2 class="minilogo">
-          Over the moon pictures
-        </h2>
-        <h1 class="mainlogo">
-Capturing Moments,<br>Creating Moments
-        </h1>
+      <img class="scorpion" src="./LOGO.JPG" alt="logo" />
+      <h2 class="minilogo">Over the moon pictures</h2>
+      <h1 class="mainlogo">Capturing Moments,<br />Creating Moments</h1>
     </section>
     <!--nav bar-->
     <nav class="navbar">
-      <h2 class="logotext">Over The Moon</h2>
       <ul class="navlinks">
         <li><a href="#about">About</a></li>
         <li><a href="#biography">Biography</a></li>
@@ -27,17 +22,26 @@ Capturing Moments,<br>Creating Moments
         <li><a href="#contact">Contact Us</a></li>
       </ul>
     </nav>
-        
-    
+
     <!-- About the website -->
     <section class="about">
       <h2>About this website</h2>
       <p>
-      This website capture the quiet beauty and nature of moments of light, life, and stillness that tell simple, meaningful stories about the world around us, inspiring a deeper appreciation for the small details we often overlook
+        This website capture the quiet beauty and nature of moments of light,
+        life, and stillness that tell simple, meaningful stories about the world
+        around us, inspiring a deeper appreciation for the small details we
+        often overlook
       </p>
     </section>
     <!-- Biography section -->
     <section class="biography">
+      <div>
+        <img
+          id="Biography"
+          src="./Biography image.jpg"
+          alt="Biography\ image"
+        />
+      </div>
       <h2>Biography</h2>
       <p>
         I'm a <strong>passionate</strong> nature photographer who loves
@@ -53,32 +57,60 @@ Capturing Moments,<br>Creating Moments
     <section>
       <h3><em>Here are some of my favorites:</em></h3>
       <div id="gallery">
-        <img src="./Deep sea.jpg" alt="Deep sea" />
-        <p class="puss">View the deep sea with me</p>
-        <img src="./Historical Landmark.jpg" alt="Land\ marks" />
-        <p class="puss" class="puss">Such shadows bring the beuty in life</p>
-        <img src="./Island.jpg" alt="Island" />
-      <p class="puss">Surrounded by just the sea</p>
-        <img src="./Land sructure.jpg" alt="Land\ structure" />
-        <p class="puss">Such a lovely oldern bulding</p>
-        <img src="./Lavender field.jpg" alt="Lavender\ field" />
-        <p class="puss">As they say the sent is heavenly with lavender</p>
-        <img src="./pingu.jpg" alt="pingu" />
-        <p class="puss">Look at pingu looking so cute</p>
-        <img src="./Sky view.jpg" alt="Sky\ view" />
-        <p class="puss">sky view of the highlands</p>
-        <img src="./Sky.jpg" alt="Sky" />
-        <p class="puss">Just watching the clouds pass by</p>
-      <img src="./Valley.jpg" alt="Valley" />
-      <p class="puss">The waters are calm and clear</p>
-    </div>
+        <!--Island image-->
+        <a href="Island.jpg">Island image
+          <img src="Island.jpg" alt="Island view">
+        </a>
+        <p>
+          An image about an island surrounded by turquoise water.
+        </p>
+<!--Landmark image-->
+<a href="./Historical Landmark.jpg"> Landmarks
+<img src="./Historical Landmark.jpg" alt="Historical Landmark">
+</a>
+<p>The Calanais (Callanish) Standing Stones are a magnificent 5,000-year-old Neolithic monument on the Isle of Lewis, predating Stonehenge and featuring a cruciform layout</p>
+      <!-- Land Structure -->
+      <a href="./Land sructure.jpg">Stuctures
+        <img src="./Land sructure.jpg" alt="Land sructure">
+      </a>
+      <p>The Dark Church (Karanlık Kilise) is a 11th-century, rock-cut monastery church in Cappadocia’s Göreme Open-Air Museum, renowned for its perfectly preserved, vibrant Byzantine frescoes.</p>
+<!--Lavender Field-->
+<a href="./Lavender field.jpg">Lavender Field
+  <img src="./Lavender field.jpg" alt="Lavender Field">
+</a>
+<p>This image captures a lavender field at sunrise in the province of France</p>
+<!-- Marbel caves-->
+ <a href="./Marbel Caves.jpg">Marbel Caves
+  <img src="./Marbel Caves.jpg" alt="Marbel Caves">
+ </a>
+ <p>The Marble Caves (Cuevas de Mármol) are stunning, water-carved natural caverns in Chilean Patagonia, formed over 6,000 years by the turquoise, glacial waters of General Carrera Lake.</p>
+    <!--Pingu-->
+    <a href="./pingu.jpg">pingu
+      <img src="./pingu.jpg" alt="Pingu">
+    </a>
+   <p> Penguins are flightless, highly adapted marine birds found exclusively in the Southern Hemisphere.</p>
+   <!--Aerial view of a highland-->
+   <a href="./Aerialview of a highland.jpg">highland
+    <img src="./Aerialview of a highland.jpg" alt="Highland">
+   </a>
+   <p>An image of a sky view of a highland.</p>
+   <!--sky-->
+   <a href="./Sky.jpg">sky
+    <img src="./Sky.jpg" alt="Sky">
+   </a>
+   <p>The sky during the day in a photographer's view</p>
+   <!--Valley-->
+   <a href="./Valley.jpg">Valley
+    <img src="./Valley.jpg" alt="Valley">
+   </a>
+   <p>A part of the Maroon Bells in the Elk Mountains. </p>
+</div>
     </section>
-
     <!-- Contact section -->
     <section id="contact">
       <h2>Contact Us</h2>
       <!-- contact form -->
-       <form>
+      <form>
         <!-- for fullname -->
         <label for="fullname">Name:</label><br />
         <input type="text" id="fullname" name="fullname" /><br /><br />
@@ -89,14 +121,11 @@ Capturing Moments,<br>Creating Moments
         <label for="message">Message</label><br />
         <textarea name="message" id="message" row="4"></textarea>
         <button type="submit">Send</button>
-        
-       </form>
-      
-      
+      </form>
     </section>
+    <!--Footer section-->
     <footer>
       <p>©Imani's photography site</p>
     </footer>
   </body>
 </html>
-
